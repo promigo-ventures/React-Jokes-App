@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  padding: 2rem;
+}
+
+.new-joke-btn {
+  margin-top: 1rem;
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  background-color: #282c34;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+.new-joke-btn:hover {
+  background-color: #444;
+}
